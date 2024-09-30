@@ -2,7 +2,7 @@
 
 This repository contains a project aimed at detecting human emotions in real-time using the YOLOv8 model. The model is trained to classify four distinct emotions: `angry`, `happy`, `sad`, and `surprised`. 
 
-## Table of Contents
+## Table of Contents 
 - [Overview](#overview)
 - [Model Architecture](#model-architecture)
 - [Dataset](#dataset)
