@@ -50,5 +50,5 @@ The model achieved high accuracy in detecting emotions across various test image
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/emotion-detection-yolov8.git
-   cd emotion-detection-yolov8
+   git clone https://github.com/Musawer1214/Emotion-Detection.git
+   cd Emotion-Detection-yolov8
